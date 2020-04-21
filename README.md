@@ -3,6 +3,7 @@ My final year Creative Technologies Project for Games Technology at UWE Bristol.
 Showcase video available at: The video will be made available in May 2020.
 
 This is an implementation of the SPH method inside of Unity, suitable for use in game scenes.
+Builds can be found inside the Builds folder.
 
 ![Showcase Image](images/showcase.png)
 
