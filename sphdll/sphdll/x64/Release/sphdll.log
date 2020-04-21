@@ -1,0 +1,38 @@
+﻿  sph.cpp
+D:\CTPFluidSim\sphdll\sphdll\Vector2.h(177,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\Vector2.h(186,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(187,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(196,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\SpatialHash.h(107,95): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\SpatialHash.h(107,71): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\SpatialHash.h(107,47): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\sph.h(23,39): warning C4190: 'V3abs' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(27,48): warning C4190: 'GetParticleScale' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(28,51): warning C4190: 'GetparticlePosition' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(55,50): warning C4190: 'GetColliderRealPos' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(56,50): warning C4190: 'GetColliderRealRot' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(57,52): warning C4190: 'GetColliderRealScale' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(58,51): warning C4190: 'GetColliderPosition' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(59,45): warning C4190: 'GetColliderUp' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(60,48): warning C4190: 'GetColliderRight' has C-linkage specified, but returns UDT 'Vector3' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector3.h(6): message : see declaration of 'Vector3'
+D:\CTPFluidSim\sphdll\sphdll\sph.h(61,48): warning C4190: 'GetColliderScale' has C-linkage specified, but returns UDT 'Vector2' which is incompatible with C
+D:\CTPFluidSim\sphdll\sphdll\Vector2.h(6): message : see declaration of 'Vector2'
+D:\CTPFluidSim\sphdll\sphdll\sph.cpp(50,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\sph.cpp(53,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\CTPFluidSim\sphdll\sphdll\sph.cpp(55,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+     Creating library D:\CTPFluidSim\sphdll\x64\Release\sphdll.lib and object D:\CTPFluidSim\sphdll\x64\Release\sphdll.exp
+  Generating code
+  8 of 498 functions ( 1.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  sphdll.vcxproj -> D:\CTPFluidSim\sphdll\x64\Release\sphdll.dll
